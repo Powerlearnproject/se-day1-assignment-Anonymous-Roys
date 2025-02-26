@@ -79,4 +79,3 @@ Prompt engineering is the practice of designing effective prompts to improve AI-
 - It specifies the exact information needed.
 - It narrows the scope to relevant aspects.
 - It provides context for better-targeted responses.
-
